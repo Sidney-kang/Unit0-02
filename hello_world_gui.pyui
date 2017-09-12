@@ -24,6 +24,42 @@
           "uuid" : "20F13A7C-2282-4989-AB38-2ED165E167BA"
         },
         "frame" : "{{200, 100}, {150, 35}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 25,
+          "text" : "Ontario",
+          "font_name" : "<System>",
+          "name" : "province_ontario_label",
+          "class" : "Label",
+          "alignment" : "center",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "6D578596-92DA-4CF0-AEA1-F188D01A60BB"
+        },
+        "frame" : "{{200, 220}, {150, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 25,
+          "text" : "Ottawa",
+          "font_name" : "<System>",
+          "name" : "city_ottawa_label",
+          "class" : "Label",
+          "alignment" : "center",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1E365D64-7B51-4F0A-8780-81785043F6C1"
+        },
+        "frame" : "{{200, 260}, {150, 32}}",
         "selected" : true,
         "nodes" : [
 
